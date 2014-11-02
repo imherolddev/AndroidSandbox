@@ -1,0 +1,32 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="android:Theme.Holo.Light">
+        <!-- Customize your theme here. -->
+
+        <item name="android:actionBarStyle">@style/ActionBarStyle</item>
+        <item name="android:actionOverflowButtonStyle">@style/ActionOverflow</item>
+        <item name="android:popupMenuStyle">@style/PopupMenu</item>
+
+    </style>
+
+    <style name="ActionBarStyle" parent="android:Widget.Holo.ActionBar">
+
+        <item name="android:background">@color/main</item>
+        <item name="android:titleTextStyle">@style/ActionBarTitle</item>
+
+    </style>
+
+    <style name="ActionBarTitle" parent="android:TextAppearance.Holo.Widget.ActionBar.Title">
+        <item name="android:textColor">@color/accent</item>
+    </style>
+
+    <style name="ActionOverflow" parent="android:Widget.Holo.ActionButton.Overflow">
+        <item name="android:src">@drawable/ic_action_overflow</item>
+    </style>
+
+    <style name="PopupMenu" parent="android:Widget.Holo.PopupMenu">
+        <item name="android:popupBackground">@drawable/overflow_bg</item>
+    </style>
+
+</resources>

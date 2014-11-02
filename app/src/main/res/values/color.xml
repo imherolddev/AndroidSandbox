@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="black">@android:color/black</color>
+    <color name="main">#007cff</color>
+    <color name="dark">#0056b2</color>
+    <color name="light">#1989ff</color>
+    <color name="dark_accent">#b27100</color>
+    <color name="accent">#ffa100</color>
+
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Android Sandbox</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="no_demos">No Demos to be shown</string>
+
+    <string name="motion_activity">Device Motion Demo</string>
+    <string name="motion_activity_description">Use device sensors to display and utilize motion events</string>
+    <string name="title_activity_device_motion">DeviceMotion</string>
+    <string name="azimuth">Azimuth</string>
+    <string name="pitch">Pitch</string>
+    <string name="roll">Roll</string>
+    <string name="shake">Device Shaken</string>
+
+    <string name="fragment_activity">Fragment Demo</string>
+    <string name="fragment_activity_description">A simple demonstration of fragments and communication between them</string>
+
+</resources>
